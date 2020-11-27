@@ -1,1 +1,3 @@
 # dotfiles
+
+Basic stuff. No hidden gems here...
